@@ -21,7 +21,12 @@ I'm always open to new opportunities for collaboration and learning! If you're l
 ![](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
 ![](https://img.shields.io/badge/-Maven-black?style=flat&logo=apachemaven)
-![](https://img.shields.io/badge/-git-black?style=flat&logo=git)
+![](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse)
+![](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
+![](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visualstudio&logoColor=violet)
+![](https://img.shields.io/badge/-black?style=flat&logo=visualstudiocode&logoColor=blue)
+![](https://img.shields.io/badge/-black?style=flat&logo=git)
+![](https://img.shields.io/badge/-black?style=flat&logo=gitlab)
 <br/>
 ![](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![](https://img.shields.io/badge/-BootStrap-black?style=flat&logo=bootstrap)
