@@ -18,9 +18,9 @@ I'm always open to new opportunities for collaboration and learning! If you're l
 <h2>Technologies I've deal with <img width="20" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"</h2>
 
 ![](https://img.shields.io/badge/-.Net-black?style=flat&logo=.net)
-![](https://img.shields.io/badge/-Node.js-black?style=flat&logo=nodejs)
+![](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
-![](https://img.shields.io/badge/-Maven-black?style=flat&logo=maven)
+![](https://img.shields.io/badge/-Maven-black?style=flat&logo=apachemaven)
 ![](https://img.shields.io/badge/-git-black?style=flat&logo=git)
 <br/>
 ![](https://img.shields.io/badge/-React-black?style=flat&logo=react)
