@@ -40,6 +40,7 @@ I'm always open to new opportunities for collaboration and learning! If you're l
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/-FastAPI-black?style=flat&logo=fastapi)
 ![](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![](https://img.shields.io/badge/-SQLAlchemy-black?style=flat&logo=sqlalchemy)
 <br/>
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
