@@ -16,17 +16,20 @@
 I'm always open to new opportunities for collaboration and learning! If you're looking for a motivated and enthusiastic developer for your next project, feel free to reach out!
 
 <h2>Technologies I've deal with <img width="20" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"</h2>
-
+  
+![](https://img.shields.io/badge/-black?style=flat&logo=git)
+![](https://img.shields.io/badge/-black?style=flat&logo=gitlab)
+![](https://img.shields.io/badge/-GNU%20Bash-black?style=flat&logo=gnubash)
+<br/>
 ![](https://img.shields.io/badge/-.Net-black?style=flat&logo=.net)
 ![](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![](https://img.shields.io/badge/-Spring%20Boot-black?style=flat&logo=springboot)
 ![](https://img.shields.io/badge/-Maven-black?style=flat&logo=apachemaven)
 ![](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse)
 ![](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
-![](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visualstudio&logoColor=violet)
-![](https://img.shields.io/badge/-black?style=flat&logo=visualstudiocode&logoColor=blue)
-![](https://img.shields.io/badge/-black?style=flat&logo=git)
-![](https://img.shields.io/badge/-black?style=flat&logo=gitlab)
+![](https://img.shields.io/badge/-VS-black?style=flat&logo=visualstudio&logoColor=violet)
+![](https://img.shields.io/badge/--black?style=flat&logo=visualstudiocode&logoColor=blue)
+![](https://img.shields.io/badge/--black?style=flat&logo=notepadplusplus)
 <br/>
 ![](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![](https://img.shields.io/badge/-BootStrap-black?style=flat&logo=bootstrap)
