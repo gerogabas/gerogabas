@@ -15,7 +15,7 @@
 ### How I can help:
 I'm always open to new opportunities for collaboration and learning! If you're looking for a motivated and enthusiastic developer for your next project, feel free to reach out!
 
-<h2>Technologies I've deal with <img width="20" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"</h2>
+<h2>Technologies I've deal with <img width="20" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
   
 ![](https://img.shields.io/badge/-black?style=flat&logo=git)
 ![](https://img.shields.io/badge/-black?style=flat&logo=gitlab)
@@ -48,13 +48,15 @@ I'm always open to new opportunities for collaboration and learning! If you're l
 ![](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 <br/>
-<img  src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3Mjk4MjYsIm5iZiI6MTcxNTcyOTUyNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE0VDIzMzIwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiYTI3ZjhjMTFkOTU0NjkxZTY2ZDE0NjBiYzJiNmZhZmM1ZDZjYzhkMjJiZDc0NzE4NTczMjY1NzM5MjI4MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LxJR5muIGZjNHlKaCXOG6T0wPqdiI87WTHoEBdsa9Lk">
+<img  src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3Mjk4MjYsIm5iZiI6MTcxNTcyOTUyNiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE0VDIzMzIwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiYTI3ZjhjMTFkOTU0NjkxZTY2ZDE0NjBiYzJiNmZhZmM1ZDZjYzhkMjJiZDc0NzE4NTczMjY1NzM5MjI4MjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LxJR5muIGZjNHlKaCXOG6T0wPqdiI87WTHoEBdsa9Lk"> </h2>
 
-<h3>Feel free to reach out to me <img src="https://camo.githubusercontent.com/8fd6f6ad1e317e23af1dcaf00ba156ebc5f77498120b6cda4527a61d3844fa94/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966"></h3>  
+<p style="font-size: small"> I've also worked with <img src="https://img.shields.io/badge/-UML-grey?style=flat&logo=uml"> (Object, Class, State, Sequence) </p>
+
+<h3>Feel free to reach out to me 📫 <img src="https://camo.githubusercontent.com/8fd6f6ad1e317e23af1dcaf00ba156ebc5f77498120b6cda4527a61d3844fa94/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966"></h3>  
 
 <p><a href="https://wa.me/543434626176?text=Hey%20I%20just%20saw%20your%20github%20profile"><img width="40" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif"></a>
 <a href="https://www.instagram.com/geronimo.gabas/"><img width="40" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"></a><p><img width="40" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif">gero_dev</p></p>
-(My github is still in building process)
+(My github is still in building process 🌱)
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 <!--
