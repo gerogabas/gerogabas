@@ -1,17 +1,6 @@
 <h1> Hi ! I'm Geronimo Gabas <img width="40" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif"></h1>
 <h2>Backend Developer<br/><img width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></h2>
 
-### About Me
-- I'm 26 years old, from Entre Rios, Argentina.
-- Since kid I was interested in exact sciences (Maths & Physics), but also on general culture, leading to read way too much.
-- I started my journey as a dev after I found myself doing game hacking and software jailbreak.
-- I sought professional growth, transitioning from self-learning to pursuing a university education. Rapid progress ensued, accompanied by the forging of numerous friendships along the way.
-- I've developed web and desktop apps using modern technologies.
-- While my primary focus lies in backend development, I recognize the importance of understanding frontend technologies as well. Therefore, I'm actively expanding my skills to include frontend development to ensure a well-rounded expertise in both aspects of web development.
-  
-### What I'm passionate about:
-- Constant learning and staying up-to-date with the latest trends and technologies in the software development world.
-- Sharing knowledge and experiences with other developers to foster a collaborative learning environment.
 ### How I can help:
 I'm always open to new opportunities for collaboration and learning! If you're looking for a motivated and enthusiastic developer for your next project, feel free to reach out!
 
