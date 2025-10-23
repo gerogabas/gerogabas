@@ -43,8 +43,7 @@ I'm always open to new opportunities for collaboration and learning! If you're l
 
 <h3>Feel free to reach out to me 📫 <img src="https://camo.githubusercontent.com/8fd6f6ad1e317e23af1dcaf00ba156ebc5f77498120b6cda4527a61d3844fa94/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966"></h3>  
 
-<p><a href="https://wa.me/543434626176?text=Hey%20I%20just%20saw%20your%20github%20profile"><img width="40" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif"></a>
-<a href="https://www.instagram.com/geronimo.gabas/"><img width="40" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"></a><p><img width="40" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif">gero_dev</p></p>
+<p><img width="40" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif">gero_dev</p></p>
 (My github is still in building process 🌱)
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
